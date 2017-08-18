@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+MyForm.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Hotspot.vcxproj -> F:\BORIS\Programming\CPP\VISUAL STUDIO\Hotspot\Debug\Hotspot.exe
